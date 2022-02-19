@@ -1,0 +1,54 @@
+.container{
+    margin: auto;
+    width:70%;
+}
+h1{
+    color: red;
+}
+body{
+    font-family: Arial;
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+}
+.calculator-container{
+    border: 2px solid blueviolet;
+    border-radius: 12px;
+    border-width: 5pt;
+    background-color: blueviolet;
+    padding: 5px;
+    width: 60%;
+}
+.btn{
+    color: white;
+    border: 2px;
+    font-family: Arial;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: red;
+    padding: 5px;
+    margin-right: 100px;
+    height: 50px;
+    width: 100px
+}
+.btn2{
+    color: white;
+    border: 2px;
+    font-family: Arial;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: red;
+    padding: 5px;
+    height: 50px;
+    width: 100px;
+}
+#Tipamount{
+    background-color: lightgrey;
+}
+#Totamount{
+    background-color: lightgrey;
+}
+.row-margin{
+    margin-top: 33px;
+}
